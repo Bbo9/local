@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--默认状态图标-->
+    <item android:drawable="@mipmap/btn_demo1"
+        android:state_pressed="false" android:state_focused="false"/>
+    <!--按下状态图标-->
+    <item android:drawable="@mipmap/btn_demo2" android:state_pressed="true"/>
+    <!--长按状态图标-->
+    <item android:drawable="@mipmap/btn_demo2" android:state_focused="true"/>
+</selector>

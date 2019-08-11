@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+    android:oneshot="false" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@mipmap/on7_1" android:duration="150"/>
+    <item android:drawable="@mipmap/on7_2" android:duration="150"/>
+    <item android:drawable="@mipmap/on7_3" android:duration="150"/>
+    <item android:drawable="@mipmap/on7_4" android:duration="150"/>
+    <item android:drawable="@mipmap/on7_5" android:duration="150"/>
+    <item android:drawable="@mipmap/on7_6" android:duration="150"/>
+    <item android:drawable="@mipmap/on7_7" android:duration="150"/>
+    <item android:drawable="@mipmap/on7_8" android:duration="150"/>
+    <item android:drawable="@mipmap/on7_9" android:duration="150"/>
+    <item android:drawable="@mipmap/on7_10" android:duration="150"/>
+    <item android:drawable="@mipmap/on7_11" android:duration="150"/>
+    <item android:drawable="@mipmap/on7_12" android:duration="150"/>
+    <item android:drawable="@mipmap/on7_13" android:duration="150"/>
+    <item android:drawable="@mipmap/on7_14" android:duration="150"/>
+    <item android:drawable="@mipmap/on7_15" android:duration="150"/>
+    <item android:drawable="@mipmap/on7_16" android:duration="150"/>
+    <item android:drawable="@mipmap/on7_17" android:duration="150"/>
+    <item android:drawable="@mipmap/on7_18" android:duration="150"/>
+    <item android:drawable="@mipmap/on7_19" android:duration="150"/>
+    <item android:drawable="@mipmap/on7_20" android:duration="150"/>
+    <item android:drawable="@mipmap/on7_21" android:duration="150"/>
+    <item android:drawable="@mipmap/on7_22" android:duration="150"/>
+    <item android:drawable="@mipmap/on7_23" android:duration="150"/>
+    <item android:drawable="@mipmap/on7_24" android:duration="150"/>
+
+</animation-list>

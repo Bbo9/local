@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/select">
+
+
+    <TableRow android:layout_weight="1">
+        <ImageView
+            android:id="@+id/iv_1"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:src="@mipmap/one" />
+        <ImageView
+            android:id="@+id/iv_2"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:src="@mipmap/two" />
+        <ImageView
+            android:id="@+id/iv_3"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:src="@mipmap/three" />
+    </TableRow>
+    <TableRow android:layout_weight="1">
+        <ImageView
+            android:id="@+id/iv_4"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:src="@mipmap/four" />
+        <ImageView
+            android:id="@+id/iv_5"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:src="@mipmap/five" />
+        <ImageView
+            android:id="@+id/iv_6"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:src="@mipmap/six" />
+    </TableRow>
+    <TableRow android:layout_weight="1">
+        <ImageView
+            android:id="@+id/iv_7"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:src="@mipmap/seven" />
+        <ImageView
+            android:id="@+id/iv_8"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:src="@mipmap/eight" />
+        <ImageView
+            android:id="@+id/iv_9"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:src="@mipmap/nine" />
+    </TableRow>
+
+        <ImageView
+            android:id="@+id/iv_0"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:src="@mipmap/zero"/>
+
+
+
+</TableLayout>
